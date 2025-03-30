@@ -1,0 +1,1 @@
+# Merhaba Git,seninle biraz calisalim bakalim. 
